@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\BlogController;
 use Illuminate\Support\Facades\Route;
 use Laravel\Jetstream\Jetstream;
 
@@ -30,7 +31,7 @@ Route::get('/sometings',function (){
 
 Route::name('admin.')->prefix('admin')->middleware(['auth:sanctum','web', 'verified'])->group(function() {
     Route::view('/dashboard', "dashboard")->name('dashboard');
-
+    Route::resource('blog', BlogController::class);
     Route::group(['middleware' => config('jetstream.middleware', ['web'])], function () {
         Route::group(['middleware' => ['auth', 'verified']], function () {
             // User & Profile...

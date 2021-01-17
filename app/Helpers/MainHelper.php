@@ -13,6 +13,17 @@ if (!function_exists('array_to_object')) {
         return json_decode(json_encode($array));
     }
 }
+if (!function_exists('eloquent_to_options')) {
+    function eloquent_to_options($array, $value, $title)
+    {
+        $arr = array();
+        foreach ($array as $index => $a) {
+            $arr[$index]['value'] = $a->$value;
+            $arr[$index]['title'] = $a->$title;
+        }
+        return $arr;
+    }
+}
 
 if (!function_exists('empty_fallback')) {
 
@@ -21,7 +32,7 @@ if (!function_exists('empty_fallback')) {
      *
      * @return string
      */
-    function empty_fallback ($data)
+    function empty_fallback($data)
     {
         return ($data) ? $data : "-";
     }
@@ -29,7 +40,7 @@ if (!function_exists('empty_fallback')) {
 
 if (!function_exists('create_button')) {
 
-    function create_button ($action, $model)
+    function create_button($action, $model)
     {
         $action = str_replace($model, "", $action);
 
@@ -37,7 +48,7 @@ if (!function_exists('create_button')) {
             'submit_text' => ($action == "update") ? "Update" : "Submit",
             'submit_response' => ($action == "update") ? "Updated." : "Submited.",
             'submit_response_notyf' => ($action == "update") ?
-                "Data ".$model." Berhasil di Update" : "Data ".$model." Berhasil di Tambahkan"
+                "Data " . $model . " Berhasil di Update" : "Data " . $model . " Berhasil di Tambahkan"
         ];
     }
 }

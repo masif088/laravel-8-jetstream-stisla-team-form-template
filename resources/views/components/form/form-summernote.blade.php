@@ -1,7 +1,6 @@
 <div class="form-group col-span-6 sm:col-span-5" wire:ignore>
     <label for="name">{{$title}}</label>
-{{--    {{dd($summernote)}}--}}
-    <textarea type="text" input="description" id="summernote" class="form-control summernote" >{!! $summernote !!}</textarea>
+    <textarea type="text" input="description" id="summernote" class="form-control summernote" >@isset($summernote){!! $summernote !!}@endisset</textarea>
     @error($model) <span class="error">{{ $message }}</span> @enderror
     <script>
         document.addEventListener('livewire:load', function () {

@@ -9,21 +9,21 @@ class FormSelect2 extends Component
 {
     public $model;
     public $title;
-    public $option;
+    public $options;
     public $selected;
 
     /**
      * FormSelect2 constructor.
      * @param $model
      * @param $title
-     * @param $option
+     * @param $options
      * @param $selected
      */
-    public function __construct($model, $title, $option, $selected)
+    public function __construct($model, $title, $options, $selected)
     {
         $this->model = $model;
         $this->title = $title;
-        $this->option = $option;
+        $this->options = $options;
         $this->selected = $selected;
     }
 
@@ -39,6 +39,6 @@ class FormSelect2 extends Component
      */
     public function render()
     {
-        return view('components.form-select2');
+        return view('components.form.form-select2');
     }
 }

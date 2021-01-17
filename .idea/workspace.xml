@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="" />
+    <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/livewire/table/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-8-jetstream-form-template.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Helpers/MainHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/MainHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSelect.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormSelect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSelect2.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormSelect2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-select2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-select2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-summernote.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-summernote.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/example/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/example/form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +31,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -139,6 +163,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1mKihhMPLqn6DnlU4GrODSD1XL2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,7 +172,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
+    <property name="last_opened_file_path" value="/var/www/html/Proyek Presensi FPM/Website/fpm_absen" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -155,6 +180,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -190,6 +216,13 @@
       <workItem from="1610117909608" duration="733000" />
       <workItem from="1610180819544" duration="655000" />
       <workItem from="1610192583819" duration="13040000" />
+      <workItem from="1610768862403" duration="57000" />
+      <workItem from="1610768922476" duration="21000" />
+      <workItem from="1610768943977" duration="94000" />
+      <workItem from="1610769069214" duration="322000" />
+      <workItem from="1610769423203" duration="5803000" />
+      <workItem from="1610789529531" duration="1569000" />
+      <workItem from="1610864337907" duration="4885000" />
     </task>
     <servers />
   </component>
@@ -197,17 +230,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1609260423080">
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1610859734565">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1609260423080" />
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1610859734565" />
     <state x="445" y="128" width="465" height="536" key="NewPhpClassDialog" timestamp="1610197166352">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="445" y="128" width="465" height="536" key="NewPhpClassDialog/0.28.1366.740@0.28.1366.740" timestamp="1610197166352" />
-    <state x="518" y="324" width="319" height="143" key="NewPhpFileDialog" timestamp="1610311161228">
+    <state x="518" y="324" width="309" height="143" key="NewPhpFileDialog" timestamp="1610769568363">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="518" y="324" width="319" height="143" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1610311161228" />
+    <state x="518" y="324" width="309" height="143" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1610769568363" />
+    <state x="194" y="33" key="SettingsEditor" timestamp="1610769833898">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="194" y="33" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1610769833898" />
   </component>
 </project>
