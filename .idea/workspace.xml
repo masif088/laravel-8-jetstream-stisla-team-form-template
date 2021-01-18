@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/livewire/table/blog.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-8-jetstream-form-template.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Helpers/MainHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/MainHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSelect.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormSelect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSelect2.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormSelect2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-select2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-select2.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-summernote.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-summernote.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/example/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/example/form.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,16 +165,17 @@
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/Http" />
-      <recent name="$PROJECT_DIR$/app/Http/Controllers/Livewire" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/Http/Controllers" />
       <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/components/form" />
+      <recent name="$PROJECT_DIR$/app/Http" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Livewire" />
     </key>
   </component>
   <component name="RunManager">
@@ -222,7 +205,7 @@
       <workItem from="1610769069214" duration="322000" />
       <workItem from="1610769423203" duration="5803000" />
       <workItem from="1610789529531" duration="1569000" />
-      <workItem from="1610864337907" duration="4885000" />
+      <workItem from="1610864337907" duration="6357000" />
     </task>
     <servers />
   </component>

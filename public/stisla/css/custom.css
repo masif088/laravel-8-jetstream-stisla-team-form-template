@@ -6,3 +6,6 @@
  */
 
 /*# sourceMappingURL=custom.css.map */
+.modal-backdrop .show {
+    position: unset !important;
+}

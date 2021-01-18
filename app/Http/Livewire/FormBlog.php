@@ -16,7 +16,7 @@ class FormBlog extends Component
     public function mount()
     {
         $this->blog['contents'] = '';
-        $this->blog['status'] = '';
+        $this->blog['status'] = 'waiting';
         $this->blogTags=[];
         $this->optionTags = eloquent_to_options(Tag::get(), 'id', 'title');
         $this->optionStatus=[
@@ -33,7 +33,7 @@ class FormBlog extends Component
 
     public function create()
     {
-//        dd($this->blogTags);
+        dd($this->blog);
     }
 
 }
