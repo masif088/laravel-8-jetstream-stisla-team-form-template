@@ -16,6 +16,8 @@ class FormBlog extends Component
     public function mount()
     {
         $this->blog['contents'] = '';
+        $this->blog['time'] = '11:00 PM';
+        $this->blog['timeaaa'] = date('Y-m-d').' - '.date('Y-m-d');
         $this->blog['status'] = 'waiting';
         $this->blogTags=[];
         $this->optionTags = eloquent_to_options(Tag::get(), 'id', 'title');

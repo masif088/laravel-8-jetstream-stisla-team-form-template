@@ -14,7 +14,7 @@ class FormSummernote extends Component
      * FormSummernote constructor.
      * @param $title
      * @param $model
-     * @param $data
+     * @param $summernote
      */
     public function __construct($title, $model, $summernote)
     {

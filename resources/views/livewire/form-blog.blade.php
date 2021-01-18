@@ -2,9 +2,14 @@
     <form wire:submit.prevent="create">
 
 {{--        <x-form-input type="text" title="title" model="blog.title"/>--}}
-        <x-form-date type="text" title="title" model="blog.title"/>
+        <x-form-date type="text" title="title" model="blog.title" type="datetimepicker"/>
 
-        <x-form-summernote :summernote="$blog['contents']" title="contents" model="blog.contents"/>
+{{--        {{$blog['time']}}--}}
+        <x-form-time title="sa" model="blog.time" :time="$blog['time']"/>
+
+        <x-form-daterange title="sa" model="blog.timeaaa" />
+
+        <x-form-summernote title="contents" model="blog.contents" @if :summernote="$blog['contents']" @else summernote="" @endif/>
 
         <x-form-select2 :options="$optionTags" :selected="$blogTags" title="Yoski" model="blogTags"/>
 

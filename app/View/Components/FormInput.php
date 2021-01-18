@@ -15,24 +15,14 @@ class FormInput extends Component
      * FormInput constructor.
      * @param string $type
      * @param string $title
-     * @param string $data
+     * @param string $model
      */
     public function __construct($type, $title, $model)
     {
         $this->type = $type;
         $this->title = $title;
         $this->model = $model;
-
     }
-
-
-
-    /**
-     * Create a new component instance.
-     *
-     * @return void
-     */
-
 
     /**
      * Get the view / contents that represent the component.

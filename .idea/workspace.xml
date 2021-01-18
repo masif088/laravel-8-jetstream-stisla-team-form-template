@@ -2,7 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/FormBlog.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/FormBlog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/Alert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormDate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDaterange.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormDaterange.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDatetime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormInput.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormInput.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSummernote.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormSummernote.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormTime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ar-AR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-bg-BG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ca-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-cs-CZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-da-DK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-de-DE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-el-GR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-es-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-es-EU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-fa-IR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-fi-FI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-fr-FR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-gl-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-he-IL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-hr-HR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-hu-HU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-id-ID.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-it-IT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ja-JP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ko-KR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-lt-LT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-lt-LV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-mn-MN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-nb-NO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-nl-NL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-pl-PL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-pt-PT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ro-RO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ru-RU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sk-SK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sl-SI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sr-RS-Latin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sr-RS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sv-SE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ta-IN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-th-TH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-tr-TR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-uk-UA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-uz-UZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-vi-VN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-date.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-date.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-daterange.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-daterange.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-datetime.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-time.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-time.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +71,13 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,7 +219,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="/var/www/html/Proyek Presensi FPM/Website/fpm_absen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/vendor" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -163,19 +229,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
-      <recent name="$PROJECT_DIR$/config" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/resources/views" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/views/components/form" />
       <recent name="$PROJECT_DIR$/app/Http" />
       <recent name="$PROJECT_DIR$/app/Http/Controllers/Livewire" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/vendor" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
   <component name="RunManager">
@@ -205,7 +272,8 @@
       <workItem from="1610769069214" duration="322000" />
       <workItem from="1610769423203" duration="5803000" />
       <workItem from="1610789529531" duration="1569000" />
-      <workItem from="1610864337907" duration="6357000" />
+      <workItem from="1610864337907" duration="21413000" />
+      <workItem from="1610969512641" duration="3209000" />
     </task>
     <servers />
   </component>
@@ -213,21 +281,33 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1610859734565">
+    <state x="312" y="79" width="732" height="633" key="#Inspections" timestamp="1610934417810">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1610859734565" />
+    <state x="312" y="79" width="732" height="633" key="#Inspections/0.28.1366.740@0.28.1366.740" timestamp="1610934417810" />
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1610883010099">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1610883010099" />
     <state x="445" y="128" width="465" height="536" key="NewPhpClassDialog" timestamp="1610197166352">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="445" y="128" width="465" height="536" key="NewPhpClassDialog/0.28.1366.740@0.28.1366.740" timestamp="1610197166352" />
-    <state x="518" y="324" width="309" height="143" key="NewPhpFileDialog" timestamp="1610769568363">
+    <state x="518" y="324" width="309" height="143" key="NewPhpFileDialog" timestamp="1610884237693">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="518" y="324" width="309" height="143" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1610769568363" />
+    <state x="518" y="324" width="309" height="143" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1610884237693" />
+    <state x="396" y="104" width="563" height="583" key="RollbackChangesDialog" timestamp="1610971873847">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="396" y="104" width="563" height="583" key="RollbackChangesDialog/0.28.1366.740@0.28.1366.740" timestamp="1610971873847" />
     <state x="194" y="33" key="SettingsEditor" timestamp="1610769833898">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="194" y="33" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1610769833898" />
+    <state x="389" y="156" width="587" height="484" key="find.popup" timestamp="1610972721603">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="389" y="156" width="587" height="484" key="find.popup/0.28.1366.740@0.28.1366.740" timestamp="1610972721603" />
   </component>
 </project>
