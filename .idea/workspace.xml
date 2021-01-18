@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/FormBlog.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/FormBlog.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/Alert.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormDate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDaterange.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormDaterange.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDatetime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormInput.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormInput.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSummernote.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormSummernote.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/View/Components/FormTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/FormTime.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ar-AR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-bg-BG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ca-ES.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-cs-CZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-da-DK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-de-DE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-el-GR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-es-ES.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-es-EU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-fa-IR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-fi-FI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-fr-FR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-gl-ES.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-he-IL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-hr-HR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-hu-HU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-id-ID.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-it-IT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ja-JP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ko-KR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-lt-LT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-lt-LV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-mn-MN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-nb-NO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-nl-NL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-pl-PL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-pt-PT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ro-RO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ru-RU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sk-SK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sl-SI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sr-RS-Latin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sr-RS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-sv-SE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-ta-IN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-th-TH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-tr-TR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-uk-UA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-uz-UZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-vi-VN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/summernote/lang/summernote-zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-date.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-date.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-daterange.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-daterange.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-datetime.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-select.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-time.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-time.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +212,7 @@
       <workItem from="1610769423203" duration="5803000" />
       <workItem from="1610789529531" duration="1569000" />
       <workItem from="1610864337907" duration="21413000" />
-      <workItem from="1610969512641" duration="3209000" />
+      <workItem from="1610969512641" duration="3571000" />
     </task>
     <servers />
   </component>
