@@ -3,6 +3,7 @@
 
 {{--        <x-form-input type="text" title="title" model="blog.title"/>--}}
         <x-form-date type="text" title="title" model="blog.title" type="datetimepicker"/>
+        <x-form-date type="text" title="title" model="blog.titlea" type="datepicker"/>
 
 {{--        {{$blog['time']}}--}}
         <x-form-time title="sa" model="blog.time" :time="$blog['time']"/>

@@ -82,7 +82,7 @@
 <script defer src="{{asset('vendor/summernote/dist/summernote-bs4.js')}}"></script>
 <script defer src="{{asset('vendor/daterangepicker/daterangepicker.js')}}"></script>
 <script defer src="{{asset('vendor/chart.js/dist/Chart.min.js')}}"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
 <script src="{{asset('assets/bootstrap-daterangepicker/daterangepicker.js')}}"></script>
 <script src="{{asset('vendor/bootstrap-timepicker/js/bootstrap-timepicker.min.js')}}"></script>
 

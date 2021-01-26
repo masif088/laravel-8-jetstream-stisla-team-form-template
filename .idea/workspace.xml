@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="" />
+    <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stisla/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/stisla/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +163,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/vendor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../masif/laravel-8-stisla-jetstream" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -212,7 +217,8 @@
       <workItem from="1610769423203" duration="5803000" />
       <workItem from="1610789529531" duration="1569000" />
       <workItem from="1610864337907" duration="21413000" />
-      <workItem from="1610969512641" duration="3571000" />
+      <workItem from="1610969512641" duration="6061000" />
+      <workItem from="1611636127933" duration="689000" />
     </task>
     <servers />
   </component>
@@ -224,10 +230,10 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="312" y="79" width="732" height="633" key="#Inspections/0.28.1366.740@0.28.1366.740" timestamp="1610934417810" />
-    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1610883010099">
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1610977700648">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1610883010099" />
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1610977700648" />
     <state x="445" y="128" width="465" height="536" key="NewPhpClassDialog" timestamp="1610197166352">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
