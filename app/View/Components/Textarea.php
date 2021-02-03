@@ -5,23 +5,21 @@ namespace App\View\Components;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class FormTime extends Component
+class Textarea extends Component
 {
     public $title;
     public $model;
-    public $time;
 
     /**
      * FormTextarea constructor.
      * @param $title
      * @param $model
-     * @param $time
+     * @return void
      */
-    public function __construct($title, $model, $time)
+    public function __construct($title, $model)
     {
         $this->title = $title;
         $this->model = $model;
-        $this->time = $time;
     }
 
     /**
@@ -31,6 +29,6 @@ class FormTime extends Component
      */
     public function render()
     {
-        return view('components.form.form-time');
+        return view('components.form.form-textarea');
     }
 }

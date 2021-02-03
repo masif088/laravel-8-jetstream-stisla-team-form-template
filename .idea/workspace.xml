@@ -3,9 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2901a783-576b-4fd8-9aae-d919bf335757" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stisla/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/stisla/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/form-blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/FormBlog.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/FormBlog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Date.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormDaterange.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Daterange.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormInput.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Input.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSelect.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Select.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSelect2.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Select2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormSummernote.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Summernote.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormTextarea.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Textarea.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Components/FormTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Components/Time.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-date.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/date.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/form-summernote.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/form-summernote.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,6 +227,16 @@
       <workItem from="1610864337907" duration="21413000" />
       <workItem from="1610969512641" duration="6061000" />
       <workItem from="1611636127933" duration="689000" />
+      <workItem from="1611638220349" duration="1300000" />
+      <workItem from="1611669925370" duration="345000" />
+      <workItem from="1611801524026" duration="269000" />
+      <workItem from="1611801839896" duration="2291000" />
+      <workItem from="1611919678842" duration="2006000" />
+      <workItem from="1611926978568" duration="1831000" />
+      <workItem from="1612149291436" duration="2720000" />
+      <workItem from="1612274770636" duration="32000" />
+      <workItem from="1612274842842" duration="19000" />
+      <workItem from="1612327313802" duration="544000" />
     </task>
     <servers />
   </component>
@@ -230,6 +248,10 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="312" y="79" width="732" height="633" key="#Inspections/0.28.1366.740@0.28.1366.740" timestamp="1610934417810" />
+    <state x="464" y="28" width="418" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612327494895">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="464" y="28" width="418" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1366.740@0.28.1366.740" timestamp="1612327494895" />
     <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1610977700648">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
